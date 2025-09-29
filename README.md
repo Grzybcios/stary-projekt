@@ -1,4 +1,4 @@
-#Stary projekst zrobiony przy pomocy https://mgx.dev
+# Stary projekst zrobiony przy pomocy https://mgx.dev
 
 
 
