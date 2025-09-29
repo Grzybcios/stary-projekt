@@ -1,3 +1,7 @@
+#Stary projekst zrobiony przy pomocy https://mgx.dev
+
+
+
 # Shadcn-UI Template Usage Instructions
 
 ## technology stack
