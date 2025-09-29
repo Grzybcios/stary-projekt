@@ -53,7 +53,7 @@ npm i
 
 ```shell
 npm add some_new_dependency
-
+```
 **Start Preview**
 
 ```shell
